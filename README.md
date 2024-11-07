@@ -8,10 +8,17 @@ Um aplicativo de conversão de moedas que utiliza a API ExchangeRate-API para bu
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Diferenças em Relação ao Projeto Anterior](#diferencas-em-relacao-ao-projeto-anterior)
+- [GIF](#gif)
+- [Projeto antigo](#projeto-antigo)
 
 ## Visão Geral
 
 Este projeto é uma versão aprimorada de um conversor de moedas básico. A diferença principal em relação à versão anterior é que ele utiliza a API ExchangeRate-API para buscar taxas de câmbio em tempo real, garantindo que os valores convertidos estejam sempre atualizados. A interface também foi aprimorada para uma experiência visual moderna e atraente.
+
+## GIF
+
+![conversor22](https://github.com/user-attachments/assets/6857c813-6c21-4eb0-b7d9-6526746a707d)
+
 
 ## Diferenças em Relação ao Projeto Anterior
 
@@ -36,3 +43,6 @@ Na versão anterior do projeto, as taxas de câmbio eram definidas manualmente e
 - **JavaScript**
 - [ExchangeRate-API](https://www.exchangerate-api.com) 
 
+## Projeto antigo
+
+- https://github.com/juliadutraves/conversor-moeda
